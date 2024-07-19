@@ -17,6 +17,7 @@ body {
 
 .wrapper {
     max-width: 1349px;
+    margin: auto;
 }
 
 /* header  */
